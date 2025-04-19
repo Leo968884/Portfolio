@@ -1,20 +1,68 @@
 [
     {
-        "image": "image1.png",
+        "image": "riding_cities.png",
+        "title": "Riding Cities",
+        "text": "Mise à jour de la page Internet de Riding Cities, une association sportive promouvant le skate en région.",
+        "link": "#"
+    },
+    {
+        "image": "booki.png",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Intégration de l'interface du site Booki avec du code HTML et CSS, permettant aux usagers de trouver des hébergements et des activités.",
         "link": "#"
     },
     {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "image": "jse_avocat.png",
+        "title": "JSE Avocat",
+        "text": "Tests fonctionnels et exploratoires du site Wordpress pour le cabinet d'avocats éco-responsables JSE Avocat.",
         "link": "#"
     },
     {
-        "image": "image3.png",
+        "image": "724events.png",
+        "title": "724events",
+        "text": "Campagne de tests pour le site de l'agence événementielle 724events, incluant des tests exploratoires et la création de tickets Jira.",
+        "link": "#"
+    },
+    {
+        "image": "print_it.png",
+        "title": "Print it",
+        "text": "Dynamisation du site Internet statique de l'imprimerie familiale Print it avec l'ajout d'un carrousel.",
+        "link": "#"
+    },
+    {
+        "image": "archiwebos.png",
+        "title": "ArchiWebos",
+        "text": "Développement front-end du site portfolio d'une architecte d'intérieur, incluant de nouvelles fonctionnalités basées sur des maquettes Figma.",
+        "link": "#"
+    },
+    {
+        "image": "kasa.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Refonte totale du site Kasa en utilisant une stack complète en JavaScript avec NodeJS côté back-end et React côté front-end.",
+        "link": "#"
+    },
+    {
+        "image": "qwenta.png",
+        "title": "Webgencia",
+        "text": "Préparation et planification du projet 'Menu Maker' pour Qwenta, permettant aux restaurateurs d'afficher et de mettre en page leurs menus.",
+        "link": "#"
+    },
+    {
+        "image": "eco_bliss_bath.png",
+        "title": "Eco Bliss Bath",
+        "text": "Automatisation des tests pour la nouvelle application de vente en ligne de produits de beauté écoresponsables Eco Bliss Bath.",
+        "link": "#"
+    },
+    {
+        "image": "payforge.png",
+        "title": "PayForge",
+        "text": "Définition de la stratégie de test pour le nouveau produit de gestion financière de PayForge, incluant des campagnes de non-régression.",
+        "link": "#"
+    },
+    {
+        "image": "mykey4.png",
+        "title": "Key4events",
+        "text": "Réalisation régulière de campagnes de tests manuels sur les nouvelles fonctionnalités et automatisation d'une matrice des privilèges ainsi que de tests de non-régression des différents produits de Key4events.",
         "link": "#"
     }
 ]
