@@ -43,10 +43,10 @@ function createElementsFromJSON(sectionId, jsonFile, imageSubfolder) {
                             <img src="./images/${imageSubfolder}/${item.image}" alt="${item.title}"/>
                             <h3 class="card-title mt-3">${item.title}</h3>
                             <p class="card-text mt-3">${item.text}</p>
-                            ${sectionId === 'portfolio' ? `
-                                <div class="text-center">
-                                    <a href="${item.link}" class="btn btn-success">Lien</a>
-                                </div>` : ''}
+                            <div class="btn-container">
+                                ${item.site ? `<a href="${item.site}" class="btn btn-success">Site</a>` : ''}
+                                ${item.git ? `<a href="${item.git}" class="btn btn-success">Lien GitHub</a>` : ''}
+                            </div>
                         </div>
                     </div>
                 `;
@@ -72,3 +72,4 @@ handleNavbarScroll();
 handleNavbarCollapse();
 createElementsFromJSON('skills', 'data/skills.json', 'skills_img');
 createElementsFromJSON('portfolio', 'data/portfolio.json', 'portfolio_img');
+
