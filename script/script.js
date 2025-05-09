@@ -38,7 +38,7 @@ function createElementsFromJSON(sectionId, jsonFile, imageSubfolder) {
                 const card = document.createElement("div");
                 card.classList.add("col-lg-4", "mt-4");
                 card.innerHTML = `
-                    <div class="card ${sectionId === 'skills' ? 'skillsText' : 'portfolioContent'}">
+                    <div class="card ${sectionId === 'skills' ? 'skillsText' : 'portfolioContent'}" data-cy="${sectionId === 'skills' ? 'skill-item' : 'portfolio-item'}">
                         <div class="card-body">
                             <img src="./images/${imageSubfolder}/${item.image}" alt="${item.title}"/>
                             <h3 class="card-title mt-3">${item.title}</h3>
