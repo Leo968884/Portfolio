@@ -1,76 +1,76 @@
 [
     {
-        "image": "riding_cities.png",
+        "image": "riding_cities.webp",
         "title": "Riding Cities",
         "text": "Mise à jour de la page Internet de Riding Cities, une association sportive promouvant le skate en région.",
         "site": "https://leo968884.github.io/Riding-Cities/",
         "git": "https://github.com/Leo968884/Riding-Cities"
     },
     {
-        "image": "booki.png",
+        "image": "booki.webp",
         "title": "Booki",
         "text": "Intégration de l'interface du site Booki avec du code HTML et CSS, permettant aux usagers de trouver des hébergements et des activités.",
         "site": "https://leo968884.github.io/Booki/",
         "git": "https://github.com/Leo968884/Booki"
     },
     {
-        "image": "jse_avocat.png",
+        "image": "jse_avocat.webp",
         "title": "JSE Avocat",
         "text": "Tests fonctionnels et exploratoires du site Wordpress pour le cabinet d'avocats éco-responsables JSE Avocat.",
         "site": "",
         "git": ""
     },
     {
-        "image": "724events.png",
+        "image": "724events.webp",
         "title": "724events",
         "text": "Campagne de tests pour le site de l'agence événementielle 724events, incluant des tests exploratoires et la création de tickets Jira.",
         "site": "",
         "git": ""
     },
     {
-        "image": "print_it.png",
+        "image": "print_it.webp",
         "title": "Print it",
         "text": "Dynamisation du site Internet statique de l'imprimerie familiale Print it avec l'ajout d'un carrousel.",
         "site": "https://leo968884.github.io/Print-it/",
         "git": "https://github.com/Leo968884/Print-it"
     },
     {
-        "image": "archiwebos.png",
+        "image": "archiwebos.webp",
         "title": "ArchiWebos",
         "text": "Développement front-end du site portfolio d'une architecte d'intérieur, incluant de nouvelles fonctionnalités basées sur des maquettes Figma.",
         "site": "",
         "git": "https://github.com/Leo968884/Portfolio-architecte"
     },
     {
-        "image": "kasa.png",
+        "image": "kasa.webp",
         "title": "Kasa",
         "text": "Refonte totale du site Kasa en utilisant une stack complète en JavaScript avec NodeJS côté back-end et React côté front-end.",
         "site": "",
         "git": "https://github.com/Leo968884/Location-immobili-re-avec-React"
     },
     {
-        "image": "qwenta.png",
+        "image": "qwenta.webp",
         "title": "Webgencia",
         "text": "Préparation et planification du projet 'Menu Maker' pour Qwenta, permettant aux restaurateurs d'afficher et de mettre en page leurs menus.",
         "site": "",
         "git": ""
     },
     {
-        "image": "eco_bliss_bath.png",
+        "image": "eco_bliss_bath.webp",
         "title": "Eco Bliss Bath",
         "text": "Automatisation des tests pour la nouvelle application de vente en ligne de produits de beauté écoresponsables Eco Bliss Bath.",
         "site": "",
         "git": "https://github.com/Leo968884/Automatisation_Tests"
     },
     {
-        "image": "payforge.png",
+        "image": "payforge.webp",
         "title": "PayForge",
         "text": "Définition de la stratégie de test pour le nouveau produit de gestion financière de PayForge, incluant des campagnes de non-régression.",
         "site": "",
         "git": ""
     },
     {
-        "image": "mykey4.png",
+        "image": "mykey4.webp",
         "title": "Key4events",
         "text": "Réalisation régulière de campagnes de tests manuels sur les nouvelles fonctionnalités et automatisation d'une matrice des privilèges ainsi que de tests de non-régression des différents produits de Key4events.",
         "site": "",
